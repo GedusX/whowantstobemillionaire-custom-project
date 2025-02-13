@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21271d3c3b3db9468794447cafa5d03, type: 3}
+  m_Name: QuestionScriptable
+  m_EditorClassIdentifier: 
+  questions:
+  - question: "C\xF3 c\xE2u \"G\u1EEBng c\xE0ng gi\xE0 c\xE0ng ...\" th\xEC sao?"
+    answers:
+    - Chua
+    - "Ng\u1ECDt"
+    - Cay
+    - "\u0110\u1EAFng"
+    correctAnswer: 2
+    answerFor: 500
+    questionIndex: 0
+  - question: "\u0110\xE2u l\xE0 t\xEAn m\u1ED9t ngh\u1EC1 nghi\u1EC7p?"
+    answers:
+    - "B\xE1c s\u0129"
+    - "\xD4ng s\u0129"
+    - "Ch\xFA s\u0129"
+    - "C\xF4 s\u0129"
+    correctAnswer: 0
+    answerFor: 1000
+    questionIndex: 1
+  - question: "M\xF4n h\u1ECDc n\xE0o n\xF3i v\u1EC1 c\xE1c lo\xE0i sinh v\u1EADt?"
+    answers:
+    - "To\xE1n"
+    - "Sinh h\u1ECDc"
+    - "V\u1EADt l\xFD"
+    - "Ho\xE1 h\u1ECDc"
+    correctAnswer: 1
+    answerFor: 2000
+    questionIndex: 2
+  - question: "M\xF3n c\xE0 ri th\u01B0\u1EDDng c\xF3 m\xE0u g\xEC?"
+    answers:
+    - "V\xE0ng"
+    - "\u0110\u1ECF"
+    - "Tr\u1EAFng"
+    - Xanh
+    correctAnswer: 0
+    answerFor: 3000
+    questionIndex: 3
+  - question: "\u0110\xE2u l\xE0 t\xEAn m\u1ED9t truy\u1EC7n n\u1ED5i ti\u1EBFng
+      d\xE0nh cho thi\u1EBFu nhi c\u1EE7a nh\xE0 v\u0103n T\xF4 Ho\xE0i?"
+    answers:
+    - "C\xE0o c\xE0o phi\xEAu l\u01B0u k\xFD"
+    - "B\u1ECD ng\u1EF1a phi\xEAu l\u01B0u k\xFD"
+    - "D\u1EBF m\xE8n phi\xEAu l\u01B0u k\xFD"
+    - "Ong th\u1EE3 phi\xEAu l\u01B0u k\xFD"
+    correctAnswer: 2
+    answerFor: 5000
+    questionIndex: 4
+  - question: "Trong c\xE2u v\xE8 c\u1EE7a tr\xF2 ch\u01A1i \"R\u1ED3ng r\u1EAFn
+      l\xEAn m\xE2y\", nh\u1EEFng ng\u01B0\u1EDDi ch\u01A1i s\u1EBD \u0111\u1EBFn
+      t\xECm ai?"
+    answers:
+    - "L\xE3o n\xF4ng"
+    - "Ph\xFA h\u1ED9"
+    - "\xD4ng ch\u1EE7"
+    - "Ng\u01B0\u1EDDi \u0111\u1EA7y t\u1EDB"
+    correctAnswer: 2
+    answerFor: 7500
+    questionIndex: 5
+  - question: "Qu\u1ED1c k\u1EF3 c\u1EE7a n\u01B0\u1EDBc n\xE0o l\xE0 l\u1EADt ng\u01B0\u1EE3c
+      l\u1EA1i c\u1EE7a qu\u1ED1c k\u1EF3 n\u01B0\u1EDBc Ba Lan?"
+    answers:
+    - "H\xE0 Lan"
+    - "Ph\xE1p"
+    - "Th\xE1i Lan"
+    - Indonesia
+    correctAnswer: 3
+    answerFor: 10000
+    questionIndex: 6
+  - question: "C\xE2u n\xE0o sao \u0111\xE2y n\xF3i v\u1EC1 vi\u1EC7c \u0103n u\u1ED1ng
+      th\xF4 t\u1EE5c, thi\u1EBFu v\u0103n ho\xE1?"
+    answers:
+    - "\u0102n se s\u1EBB, \u0111\u1EBB con voi"
+    - "\u0102n nh\u01B0 h\xF9m \u0111\u1ED5 \u0111\xF3"
+    - "\u0102n nh\u01B0 m\xE8o \u0103n"
+    - "\u0102n ch\u1EB3ng b\xF5 d\xEDnh r\u0103ng"
+    correctAnswer: 1
+    answerFor: 12500
+    questionIndex: 7
+  - question: "Qu\u1ED1c gia n\xE0o \u0111\u01B0\u1EE3c m\u1EC7nh danh l\xE0 X\u1EE9
+      s\u1EDF \u0110\u1ED3ng h\u1ED3?"
+    answers:
+    - "Thu\u1EF5 S\u0129"
+    - "Ph\u1EA7n Lan"
+    - "Thu\u1EF5 \u0110i\u1EC3n"
+    - "\u0110an M\u1EA1ch"
+    correctAnswer: 0
+    answerFor: 25000
+    questionIndex: 8
+  - question: "Kim lo\u1EA1i n\xE0o sau \u0111\xE2y d\u1EABn \u0111i\u1EC7n t\u1ED1t
+      nh\u1EA5t?"
+    answers:
+    - "Nh\xF4m"
+    - "\u0110\u1ED3ng "
+    - "B\u1EA1c"
+    - "S\u1EAFt"
+    correctAnswer: 2
+    answerFor: 50000
+    questionIndex: 9
+  - question: "Th\u1EE7 \u0111\xF4 c\u1EE7a qu\u1ED1c gia n\xE0o c\xF3 t\xEAn \u0111\u1EA7y
+      \u0111\u1EE7 d\xE0i nh\u1EA5t th\u1EBF gi\u1EDBi?"
+    answers:
+    - "Th\xE1i Lan"
+    - Indonesia
+    - Campuchia
+    - Philippines
+    correctAnswer: 0
+    answerFor: 75000
+    questionIndex: 10
+  - question: "\u0110\u1ED9ng v\u1EADt n\xE0o sau \u0111\xE2y c\xF3 l\u1EF1c c\u1EAFn
+      cao nh\u1EA5t?"
+    answers:
+    - "R\u1ED3ng Komodo"
+    - "C\xE1 s\u1EA5u n\u01B0\u1EDBc m\u1EB7n"
+    - "H\u1ED5 Sumatra"
+    - "Tr\u0103n Nam M\u1EF9"
+    correctAnswer: 1
+    answerFor: 125000
+    questionIndex: 11
+  - question: "B\xE0i th\u01A1 n\xE0o sau \u0111\xE2y kh\xF4ng n\u1EB1m trong phong
+      tr\xE0o th\u01A1 m\u1EDBi v\xE0o th\u1EBF k\u1EF7 XX?"
+    answers:
+    - "Tr\xE0ng giang"
+    - "V\u1ED9i v\xE0ng"
+    - "\u0110o\xE0n thuy\u1EC1n \u0111\xE1nh c\xE1"
+    - "\u0110\xE2y th\xF4n V\u0129 D\u1EA1"
+    correctAnswer: 2
+    answerFor: 250000
+    questionIndex: 12
+  - question: "Ng\xE0y n\xE0o trong n\u0103m \u0111\u01B0\u1EE3c l\u1EF1a ch\u1ECDn
+      l\xE0 ng\xE0y Toilet Th\u1EBF gi\u1EDBi?"
+    answers:
+    - 1/11
+    - 21/11
+    - 19/11
+    - 11/11
+    correctAnswer: 2
+    answerFor: 500000
+    questionIndex: 13
+  - question: "C\xE1ch m\u1EA1ng Th\xE1ng T\xE1m t\u1EA1i Vi\u1EC7t Nam di\u1EC5n
+      ra v\xE0o giai \u0111o\u1EA1n n\xE0o trong l\u1ECBch s\u1EED th\u1EBF gi\u1EDBi?"
+    answers:
+    - "Tr\u01B0\u1EDBc Th\u1EBF chi\u1EBFn th\u1EE9 nh\u1EA5t"
+    - "Sau Th\u1EBF chi\u1EBFn th\u1EE9 nh\u1EA5t"
+    - "Tr\u01B0\u1EDBc Th\u1EBF chi\u1EBFn th\u1EE9 hai"
+    - "Sau Th\u1EBF chi\u1EBFn th\u1EE9 hai"
+    correctAnswer: 3
+    answerFor: 1000000
+    questionIndex: 14
+  switchQuestions:
+  - question: "Gi\u1EA3i th\u01B0\u1EDFng Fields \u0111\u01B0\u1EE3c trao cho l\u0129nh
+      v\u1EF1c n\xE0o?"
+    answers:
+    - "V\u1EADt l\xFD"
+    - "Ho\xE1 h\u1ECDc"
+    - "To\xE1n h\u1ECDc"
+    - "Sinh h\u1ECDc"
+    correctAnswer: 2
+    answerFor: 0
+    questionIndex: 0
+  - question: "T\xE1c gi\u1EA3 c\u1EE7a b\u1EA3n giao h\u01B0\u1EDFng n\u1ED5i ti\u1EBFng
+      \"\u0110\u1ECBnh M\u1EC7nh\" (Symphony No. 5) l\xE0 ai?"
+    answers:
+    - Beethoven
+    - Mozart
+    - Bach
+    - Schubert
+    correctAnswer: 0
+    answerFor: 0
+    questionIndex: 0
+  - question: "Ai l\xE0 ng\u01B0\u1EDDi \u0111\u1EC1 xu\u1EA5t thuy\u1EBFt ti\u1EBFn
+      h\xF3a v\xE0 ch\u1ECDn l\u1ECDc t\u1EF1 nhi\xEAn?"
+    answers:
+    - Charles Darwin
+    - Gregor Mendel
+    - Louis Pasteur
+    - Alfred Wallace
+    correctAnswer: 0
+    answerFor: 0
+    questionIndex: 0

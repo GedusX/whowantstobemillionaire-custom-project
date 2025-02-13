@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f41d6d55b8faf494399f268f4d12126d, type: 3}
+  m_Name: GeneralConfig
+  m_EditorClassIdentifier: 
+  currency: 
+  currentQuestion: 14
+  moneyTree: f4010000e8030000d0070000b80b0000881300004c1d000010270000d4300000a861000050c30000f824010048e8010090d0030020a1070040420f00
+  mileStone: 04000000090000000e000000
+  startingLifelines: 000000000100000002000000
+  mileStoneLifelines: 0300000004000000
+  lifelineState: 0100000001000000010000000100000001000000

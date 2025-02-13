@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26556fa8220ea1749a6d353e8822a379, type: 3}
+  m_Name: MusicPacks
+  m_EditorClassIdentifier: 
+  audios:
+  - name: bed_q1-5
+    clip: {fileID: 8300000, guid: 7d054ff1a3064cc4db0ef01f90011f24, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: bed_q6
+    clip: {fileID: 8300000, guid: f0c8702c8f60e5242890fba9aedc68dc, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: bed_q7
+    clip: {fileID: 8300000, guid: 82311d2cf4d9dfd4cb88746c34fd66b6, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: bed_q8
+    clip: {fileID: 8300000, guid: 933c9e349ba946d42b73d4a97acf79d0, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: bed_q9
+    clip: {fileID: 8300000, guid: 95b6c7f8df1552749b6237c9316ca753, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: bed_q10
+    clip: {fileID: 8300000, guid: cc45305da7e0749458b8d3e6eadb3fed, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: bed_q11
+    clip: {fileID: 8300000, guid: efedf9924c4a7bc459b7ccb0562e0038, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: bed_q12
+    clip: {fileID: 8300000, guid: bf115aa1041dddc4991dd690d0d8a9d2, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: bed_q13
+    clip: {fileID: 8300000, guid: caf0db56315c0d94bb049564afdec806, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: bed_q14
+    clip: {fileID: 8300000, guid: c62af95d60b704846b86f26ebc7ce58b, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: bed_q15
+    clip: {fileID: 8300000, guid: d8a7d1de0bc248e4abcbe2e76b8f5b21, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1
+  - name: standby
+    clip: {fileID: 8300000, guid: bf5e500a67ffffe42ad693dd51d8c6c4, type: 3}
+    isLoop: 1
+    volume: 1
+    pitch: 1

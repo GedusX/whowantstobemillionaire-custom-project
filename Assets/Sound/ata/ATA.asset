@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26556fa8220ea1749a6d353e8822a379, type: 3}
+  m_Name: ATA
+  m_EditorClassIdentifier: 
+  audios:
+  - name: ata_start
+    clip: {fileID: 8300000, guid: 5ee1e1152853df84ab1c56a64109f3bb, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: ata_during
+    clip: {fileID: 8300000, guid: 56148b12fdf6694438aaf3ea9a17a8b6, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: ata_end
+    clip: {fileID: 8300000, guid: 1dc176f6ce0f7e8449bedf7490b5835b, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1

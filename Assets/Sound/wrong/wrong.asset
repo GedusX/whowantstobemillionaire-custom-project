@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26556fa8220ea1749a6d353e8822a379, type: 3}
+  m_Name: wrong
+  m_EditorClassIdentifier: 
+  audios:
+  - name: w1-5
+    clip: {fileID: 8300000, guid: cd577e8a745c0cd48a8e7c918ee6eecb, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: w6
+    clip: {fileID: 8300000, guid: 9abe4151b7f978a498b89829a0cc7afc, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: w7
+    clip: {fileID: 8300000, guid: 802f0ccac9795c4448fb763df0171b2d, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: w8
+    clip: {fileID: 8300000, guid: 99f652d2f920b9945a64ce5d9f626276, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: w9
+    clip: {fileID: 8300000, guid: b1106c35938e3584491e1cf5f88896fe, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: w10
+    clip: {fileID: 8300000, guid: a7bdd3b70f58076468d3a65e8ee2a86e, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: w11
+    clip: {fileID: 8300000, guid: a972cf51a3dfca54ea3dd95e99b1b685, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: w12
+    clip: {fileID: 8300000, guid: 88344e31dff265c4582087855f354074, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: w13
+    clip: {fileID: 8300000, guid: 2a48a56bac0ed1840829e9524e5c87b8, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: w14
+    clip: {fileID: 8300000, guid: 802c6b0fddb069d4e8678dbe1cc231f9, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
+  - name: w15
+    clip: {fileID: 8300000, guid: 31978467743d780409453e53c05a52d3, type: 3}
+    isLoop: 0
+    volume: 1
+    pitch: 1
